@@ -18,4 +18,5 @@ Wash your hands | [NHS video guide](https://www.nhs.uk/live-well/healthy-body/be
 skills | learn it here
 ------------ | -------------
 General | [Government Money Advice Service](https://www.moneyadviceservice.org.uk/)
+Investment | [Intelligent Investor](https://www.amazon.co.uk/dp/0060555661?tag=duc08-21&linkCode=osi&th=1&psc=1)
 
