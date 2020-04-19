@@ -12,6 +12,7 @@ Declutter | [Life Changing Magic Of Tidying](https://www.amazon.com/Life-Changin
 skills | learn it here
 ------------ | -------------
 Wash your hands | [NHS video guide](https://www.nhs.uk/live-well/healthy-body/best-way-to-wash-your-hands/)
+Shave With a Safety Razor | [Tutorial](https://www.youtube.com/watch?v=ps88RU_BXlA)
 
 ## Personal Finance
 
