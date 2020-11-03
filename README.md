@@ -26,5 +26,5 @@ Investment | [Intelligent Investor](https://www.amazon.co.uk/dp/0060555661?tag=d
 
 skills | learn it here
 ------------ | -------------
-dental check up once a year | 
-healthy body guides | [NHS health body](https://www.nhs.uk/live-well/healthy-body/)
+dental check up once a year | [NHS dental check-ups](https://www.nhs.uk/live-well/healthy-body/dental-check-ups/)
+general | [NHS Live Well Guide](https://www.nhs.uk/live-well/)
