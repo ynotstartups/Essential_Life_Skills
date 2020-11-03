@@ -14,6 +14,7 @@ skills | learn it here
 ------------ | -------------
 Wash your hands | [NHS video guide](https://www.nhs.uk/live-well/healthy-body/best-way-to-wash-your-hands/)
 Shave With a Safety Razor | [Tutorial](https://www.youtube.com/watch?v=ps88RU_BXlA)
+dental check up once a year | 
 
 ## Personal Finance
 
