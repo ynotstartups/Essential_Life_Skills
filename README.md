@@ -14,7 +14,6 @@ skills | learn it here
 ------------ | -------------
 Wash your hands | [NHS video guide](https://www.nhs.uk/live-well/healthy-body/best-way-to-wash-your-hands/)
 Shave With a Safety Razor | [Tutorial](https://www.youtube.com/watch?v=ps88RU_BXlA)
-dental check up once a year | 
 
 ## Personal Finance
 
@@ -23,3 +22,9 @@ skills | learn it here
 General | [Government Money Advice Service](https://www.moneyadviceservice.org.uk/)
 Investment | [Intelligent Investor](https://www.amazon.co.uk/dp/0060555661?tag=duc08-21&linkCode=osi&th=1&psc=1)
 
+## Health
+
+skills | learn it here
+------------ | -------------
+dental check up once a year | 
+healthy body guides | [NHS health body](https://www.nhs.uk/live-well/healthy-body/)
