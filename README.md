@@ -29,3 +29,4 @@ skills | learn it here
 dental check up once a year | [NHS dental check-ups](https://www.nhs.uk/live-well/healthy-body/dental-check-ups/)
 general | [NHS Live Well Guide](https://www.nhs.uk/live-well/)
 How to sit at your desk correctly | [NHS](https://www.nhs.uk/live-well/healthy-body/how-to-sit-correctly/)
+get your eyes tested every 2 years | [NHS look after your eyes](https://www.nhs.uk/live-well/healthy-body/look-after-your-eyes/)
