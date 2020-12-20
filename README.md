@@ -14,7 +14,7 @@ skills | learn it here
 ------------ | -------------
 Wash your hands | [NHS video guide](https://www.nhs.uk/live-well/healthy-body/best-way-to-wash-your-hands/)
 Shave With a Safety Razor | [Tutorial](https://www.youtube.com/watch?v=ps88RU_BXlA)
-Good personal hygiene habits ｜ [Good personal hygiene habits](https://www1.health.gov.au/internet/publications/publishing.nsf/Content/ohp-enhealth-manual-atsi-cnt-l~ohp-enhealth-manual-atsi-cnt-l-ch3~ohp-enhealth-manual-atsi-cnt-l-ch3.7)
+Good personal hygiene habits | [Good personal hygiene habits](https://www1.health.gov.au/internet/publications/publishing.nsf/Content/ohp-enhealth-manual-atsi-cnt-l~ohp-enhealth-manual-atsi-cnt-l-ch3~ohp-enhealth-manual-atsi-cnt-l-ch3.7)
 
 ## Personal Finance
 
